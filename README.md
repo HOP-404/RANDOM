@@ -9,11 +9,11 @@
 ```
 cd
 
-rm -rf RNDM
+rm -rf RANDOM
 
 git clone --depth=1 https://github.com/HOP-404/RANDOM
 
-cd RNDM
+cd RANDOM
 
 python GREEN.py
 ```
